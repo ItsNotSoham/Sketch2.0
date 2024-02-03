@@ -1,0 +1,6 @@
+canvas{border: 5px solid red;}
+#show_sketch{float: right;}
+body{background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);}
+#time{float: right;margin-right: 20px;font-size: 35px;color: red;font-weight: bold;}
+#score{font-size: 35px;color: red;font-weight: bold;}
+#sketch_name,#acc,#q{font-size: 35px;color: red;font-weight: bold;}
